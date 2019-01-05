@@ -1,0 +1,6 @@
+/test-classes/
+/classes/
+/dist/
+/build/
+/bin/
+**/.DS_Store
